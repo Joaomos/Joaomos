@@ -1,44 +1,29 @@
 # Olá! 👋🏻
 
-Eu sou João Marcos, um estudante do terceiro período de Sistemas de Informação na Universidade Federal de Uberlândia (UFU). Sou certificado em Inglês avançado pela Cultura Inglesa e pela Universidade de Cambridge.
+Eu sou João Marcos, um estudante do terceiro período de Sistemas de Informação na Universidade Federal de Uberlândia (UFU).
 
-## Sobre Mim
+<h2>Algumas estatísticas📊</h2>
+<div>
+  <a href="https://github.com/Joaomos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaomos&show_icons=true&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight">
+</div>
 
-Atualmente, dedico meu tempo livre para o estudo de linguagens de programação como Java.
+<h2>Liguagens que eu uso no meu dia a dia 💻</h2>
 
-## Objetivos
+<div>
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Joao-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">   
+</div>
 
-- Me formar em Sistemas de Informação.
-- Iniciar minha carreira na área de desenvolvimento de software.
-- Adquirir experiência prática e conhecimento contínuo em programação.
-- Contribuir de maneira significativa para projetos inovadores.
-- Crescer tanto profissionalmente quanto pessoalmente.
 
-## O que estou estudando atualmente
+<h2>Vamos conversar 🤝</h2>
 
-- **Java**
-
-## Interesses Profissionais
-
-Estou em busca de oportunidades para aplicar e expandir meus conhecimentos em programação, com foco em:
-
-- Desenvolvimento Back-end.
-- Projetos inovadores que façam a diferença.
-- Contribuir para o crescimento e sucesso das empresas com as quais eu trabalhar.
-
-Estou determinado a me tornar um desenvolvedor de sucesso e comprometido em agregar valor às equipes e empresas, ajudando-as a alcançar seus objetivos.
-
-## Contato
-
-- [LinkedIn](https://www.linkedin.com/in/ojoaomarcosilva/)
-- [Email](joaomarcos2827@gmail.com)
-
----
-
-Espero adquirir o máximo de conhecimento que puder para contribuir de maneira significativa em diferentes áreas e ajudar no crescimento e desenvolvimento da empresa.
-
-## Projetos
-
-- [Portifolio](https://github.com/Joaomos/Portifolio)
-- [Calculadora JavaScript](https://github.com/Joaomos/Calculadora-JavaScript)
-- [Sistema de Controle de Estoque para JM Supermarket](https://github.com/Joaomos/Controle-de-estoque-de-mercadorias-de-supermercado)
+<div>
+  <a href="https://www.linkedin.com/in/ojoaomarcosilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/qr/ZYTYQWYFN3E5B1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:joaomarcos2827@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
