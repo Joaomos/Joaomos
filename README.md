@@ -6,7 +6,7 @@ Eu sou João Marcos, um estudante do terceiro período de Sistemas de Informaç�
 <div>
   <a href="https://github.com/Joaomos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joaomos&show_icons=true&theme=tokyonight">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joaomos&layout=donut&theme=tokyonight">
 </div>
 
 <h2>Liguagens que eu uso no meu dia a dia 💻</h2>
